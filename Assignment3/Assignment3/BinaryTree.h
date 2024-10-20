@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 #include <iomanip> // for std::setw
+#include <vector>
 #include "TreeNode.h"
 #include "InfixToPostfixConverter.h"
 
