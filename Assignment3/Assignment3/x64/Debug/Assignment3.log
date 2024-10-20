@@ -1,0 +1,5 @@
+﻿  Assignment3.cpp
+C:\Users\Ali\OneDrive\Documents\CIS 350 Assignments\Assignment3\Assignment3\PostfixEvaluator.h(64,19): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Assignment3.cpp')
+  
+  Assignment3.vcxproj -> C:\Users\Ali\OneDrive\Documents\CIS 350 Assignments\Assignment3\x64\Debug\Assignment3.exe
